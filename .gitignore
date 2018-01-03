@@ -73,3 +73,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Generic Content Packs
+Content/StarterContent/*
+Content/KiteDemo/*
+Content/RoadNetwork/*
