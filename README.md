@@ -1,6 +1,6 @@
 # Detour
 
-##Content Packs that are excluded from git
+## Content Packs that are excluded from git:
 * StarterContent
 * KiteDemo
 * RoadNetwork
